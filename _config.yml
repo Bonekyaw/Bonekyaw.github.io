@@ -8,3 +8,11 @@ description: FullStack Developer & Tech Lead
 #date: YYYY-MM-DD hh:mm:ss -0000
 show_downloads: false
 theme: jekyll-theme-minimal
+
+author:
+  # Biographic information
+  avatar           : /assets/img/me280@0.5x.png
+  name             : "Phone Nyo"
+  pronouns         : "He / His"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
