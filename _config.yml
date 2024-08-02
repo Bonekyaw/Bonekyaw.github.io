@@ -1,7 +1,10 @@
-layout: post
+#layout: post
+locale: "en-US"
 title: Phone Nyo
+title_separator: "-"
+name: &name "Starter Kits Creator"
 logo: /assets/img/me280@0.5x.png
 description: FullStack Developer & Tech Lead
-date: YYYY-MM-DD hh:mm:ss -0000
+#date: YYYY-MM-DD hh:mm:ss -0000
 show_downloads: false
 theme: jekyll-theme-minimal
