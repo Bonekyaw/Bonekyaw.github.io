@@ -1,19 +1,18 @@
 # FullStack Developer & Tech Lead
 
-Web Development - `React`, `NextJS`, `NodeJS`, `ExpressJS`, `NestJS`  
-Mobile App Development - `React Native`, `Kotlin Multi-Platform`  
-Desktop App Development - `Electron JS`  
-_GoLang_
+| Web Development | `React, NextJS, NodeJS, ExpressJS, NestJS, GoLang` |
+| Mobile App Development | `React Native, Kotlin Multi-Platform` |
+| Desktop App Development | `Electron JS` |
 
 ## My Courses 2025
 
-1. **FullStack Developer Class**
-2. **Mobile Application Developer Class ( React Native Expo )**
-3. (Coming...) Desktop Application Developer Class ( Electron )
-4. (Coming...) NodeJS Master Class ( Nest JS & Next JS )
-5. (Coming...) Kotlin Multi-platform ( Android & iOS )
-6. (Coming...) Blockchain 101
-7. (Coming...) Git & Github Actions
+**FullStack Developer Class**  
+**Mobile Application Developer Class ( React Native Expo )**  
+(Coming...) Desktop Application Developer Class ( Electron )  
+(Coming...) NodeJS Master Class ( Nest JS & Next JS )  
+(Coming...) Kotlin Multi-platform ( Android & iOS )  
+(Coming...) Blockchain 101  
+(Coming...) Git & Github Actions
 
 ### FullStack Developer Class Summary
 
