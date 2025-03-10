@@ -29,6 +29,26 @@
 | ORM & Database          | `Prisma ORM, PostgreSQL, MongoDB`                                                                                                                                                  |
 | Library Usage           | `react-router, react-hook-form, zod, dompurify, axios, immer, bcrypt, bullmq, i18next, ioredis, jsonwebtoken, moment, multer, node-cron, sanitize-html, sharp, ejs, and so on ...` |
 
+### Mobile Application Developer Class ( React Native Expo )
+
+| Content                 | Tech Stack                                 |
+| ----------------------- | ------------------------------------------ |
+| Introduction            | `Color Theory & UI/UX`                     |
+| Installation            | `Environment Setup`                        |
+| Similar Tech            | `HTML, CSS`                                |
+| Language Fundamental    | `Programming Basic with JS`                |
+| UI & Interaction        | `React-Native Introduction`                |
+| UI Layout               | `Building UI with Core Components`         |
+| React                   | `React Fundamental`                        |
+| Framework               | `Expo, Router, SDK`                        |
+| Performance             | `Optimization`                             |
+| Networking              | `Fetch, Axios & its interceptor`           |
+| Server State Management | `Tanstack query, RTK query`                |
+| Client State Management | `Zustand, redux-toolkit`                   |
+| UI Library              | `GlueStack-UI with nativewind`             |
+| Deployment              | `EAS`                                      |
+| Bonus                   | `Security, Animation, Debugging & Testing` |
+
 ## My Starter Kits
 
 `Nest JS for REST Api`
